@@ -1,0 +1,11 @@
+/Users/romo_lab/Desktop/MUMmer3.23/ins/BG2.fasta /Users/romo_lab/Desktop/MUMmer3.23/ins/MLST.fasta
+NUCMER
+
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+ 8383622  8384210  |        1      589  |      589      589  |   100.00  | Nakaseomyces.glabrata.BG2	FKS_5
+ 5309490  5310001  |        1      512  |      512      512  |   100.00  | Nakaseomyces.glabrata.BG2	LEU2_7
+  421911   422517  |        1      607  |      607      607  |   100.00  | Nakaseomyces.glabrata.BG2	NMT1_8
+ 1416221  1416639  |      419        1  |      419      419  |   100.00  | Nakaseomyces.glabrata.BG2	TRP1_7
+ 9911621  9912236  |        1      616  |      616      616  |   100.00  | Nakaseomyces.glabrata.BG2	UGP1_3
+ 9580340  9580941  |      602        1  |      602      602  |   100.00  | Nakaseomyces.glabrata.BG2	URA3_6

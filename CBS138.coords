@@ -1,0 +1,11 @@
+/Users/romo_lab/Desktop/MUMmer3.23/ins/CBS138.fasta /Users/romo_lab/Desktop/MUMmer3.23/ins/MLST.fasta
+NUCMER
+
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+ 8530440  8531028  |        1      589  |      589      589  |   100.00  | Nakaseomyces.glabrata.CBS138	FKS_8
+ 5167519  5168030  |        1      512  |      512      512  |   100.00  | Nakaseomyces.glabrata.CBS138	LEU2_5
+  406781   407387  |        1      607  |      607      607  |   100.00  | Nakaseomyces.glabrata.CBS138	NMT1_3
+ 1397393  1397811  |      419        1  |      419      419  |   100.00  | Nakaseomyces.glabrata.CBS138	TRP1_5
+ 9685590  9686205  |        1      616  |      616      616  |   100.00  | Nakaseomyces.glabrata.CBS138	UGP1_1
+ 6125875  6126476  |      602        1  |      602      602  |   100.00  | Nakaseomyces.glabrata.CBS138	URA3_1
